@@ -1,0 +1,194 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    transition: all 0.2s ease;
+}
+
+nav{
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* position: sticky;
+    top: 0px; */
+}
+
+nav ul{
+    padding: 20px 70px;
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 0px 20px;
+}
+
+nav ul li a{
+    display:inline-block;
+    text-decoration: none;
+    color:rgb(187, 185, 185);
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover{
+    background-color: rgba(117, 115, 115, 0.349);
+}
+
+.tools img{
+    padding: 25px 7px;
+    height: 40%;
+    width: auto;
+}
+
+.tools img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.logo{
+    height: 10vh;
+    width: auto;
+    cursor: pointer;
+}
+
+.loginbutton{
+    display:flex;
+    height: auto;
+    padding: 2px;
+    width: auto;
+    border-radius: 5px;
+    margin: 10px 70px 0px 0px;
+    padding: 7px;
+}
+
+.loginbutton:hover{
+    background-color: rgba(117, 115, 115, 0.349);
+    cursor: pointer;
+}
+
+.loginbutton img{
+    height: 80%;
+    border-radius: 100%;
+    padding: 7px;
+}
+
+.loginbtntext{
+    /* margin-top: 20px; */
+    padding-top: 0px;
+    height: auto;
+}
+
+.pvtcustomer, .logintext{
+    color: rgb(187, 185, 185);
+    font-weight: bolder;
+}
+
+.pvtcustomer{
+    font-size: 10px;
+}
+
+.logintext{
+    padding: 2px 0px 0px 0px;
+    font-size: 14px;
+    margin: 3px 0px;
+}
+
+.rightpanel{
+    display:flex;
+    justify-content: end;
+}
+
+.rightpanel ul{
+    padding-right: 2px;
+}
+
+.main-car-image{
+    width: 100%;
+    height: auto;
+}
+
+.helpbtn{
+    border: 7px solid white;
+    border-radius: 100%;
+    position: fixed;
+    bottom: 7px;
+    right: 7px;
+    height: 70px;
+    box-shadow: 0px 5px 20px 0px black;
+}
+
+.helpbtn:hover{
+    cursor: pointer;
+    box-shadow: 0px 5px 20px 3px black;
+}
+
+.feedback-button{
+    transform: rotate(270deg);
+    background-color: #007ACC;
+    width: auto;
+    position: fixed;
+    top: 335px;
+    right: -62px;
+    z-index: 2;
+    padding: 10px;
+    color:white;
+    font-weight: bold;
+}
+
+.feedback-button:hover{
+    background-color: #0265a6;
+    cursor: pointer;
+}
+
+.buttons{
+    display:flex;
+    justify-content: center;
+    /* margin-bottom: 150px; */
+    position: relative;
+    bottom: 37px;
+    z-index: 1;
+}
+
+.button1, .button2{
+    border: 2px solid grey;
+    border-radius: 2px;
+    width: 150px;
+    text-align: center;
+    padding: 20px;
+    border-collapse: collapse;
+    font-weight: bolder;
+}
+
+.selected{
+    background-color: black;
+    color:white;
+}
+
+.button2{
+    background-color: white;
+}
+
+.button2:hover{
+    background-color: rgb(228, 225, 225);
+    cursor: pointer;
+}
+
+.textcontent{
+    margin-left: 70px;
+}
+
+.textcontent h2{
+    font-size: 40px;
+    font-weight: 300;
+    padding: 20px;
+}
+
+.textcontent p{
+    padding: 20px;
+    font-size: 20px;
+}
