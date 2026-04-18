@@ -7,7 +7,6 @@ This project focuses on replicating modern UI design, layout structure, and smoo
 
 ## ✨ Features
 
-- Sticky navigation bar
 - Full-width hero section with car showcase
 - Centered interactive buttons (AMG Line / G63 style)
 - Fixed floating elements (logo & side feedback tab)
