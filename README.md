@@ -1,11 +1,11 @@
-# 🚗 Mercedes-Benz Inspired Landing Page
+# Mercedes-Benz Inspired Landing Page
 
 A premium landing page inspired by the Mercedes-Benz website, built using pure HTML and CSS.  
 This project focuses on replicating modern UI design, layout structure, and smooth user interactions.
 
 ---
 
-## ✨ Features
+## Features
 
 - Full-width hero section with car showcase
 - Centered interactive buttons (AMG Line / G63 style)
@@ -16,7 +16,17 @@ This project focuses on replicating modern UI design, layout structure, and smoo
 
 ---
 
-## 🛠️ Technologies Used
+## Preview
+<img width="1900" height="970" alt="image" src="https://github.com/user-attachments/assets/0d918bc3-68c3-44e5-b103-36a4c015be1c" />
+
+---
+
+## Live Demo
+https://kartikmishra0405.github.io/mercedes-landing-clone/
+
+---
+
+## Technologies Used
 
 - HTML5  
 - CSS3
@@ -27,7 +37,7 @@ This project focuses on replicating modern UI design, layout structure, and smoo
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Structuring real-world landing pages  
 - Using Flexbox for complex layouts  
@@ -37,7 +47,7 @@ This project focuses on replicating modern UI design, layout structure, and smoo
 
 ---
 
-## 🎯 Challenges Faced
+## Challenges Faced
 
 - Aligning navbar elements (left, center logo, right section)  
 - Positioning overlay buttons on hero image  
@@ -45,14 +55,14 @@ This project focuses on replicating modern UI design, layout structure, and smoo
 
 ---
 
-## 📸 Inspiration
+## Inspiration
 
 Inspired by the official Mercedes-Benz website design.  
 This project is for learning and educational purposes only.
 
 ---
 
-## 🙌 Author
+## Author
 
 **Kartik Mishra**
 
